@@ -8,8 +8,8 @@
 - 🧠 Check out my linkedin! https://www.linkedin.com/in/jayden-alimonda/
 
 - ## Contact me:
-  https://www.linkedin.com/in/jayden-alimonda/
 
+- ## Languages and tools
 
 
 

@@ -7,6 +7,9 @@
 - 💬 Take a look at my portfolio at https://jaydens-portfolio.onrender.com/
 - 🧠 Check out my linkedin! https://www.linkedin.com/in/jayden-alimonda/
 
+- ## Contact me:
+  https://www.linkedin.com/in/jayden-alimonda/
+
 
 
 

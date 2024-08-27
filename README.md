@@ -1,4 +1,4 @@
-##Hey, I'm Jayden Alimonda, welcome to my Git page 👋
+##         Hey, I'm Jayden Alimonda, welcome to my Git page 👋
 
 
 - 🌱 I’m currently exploring web development

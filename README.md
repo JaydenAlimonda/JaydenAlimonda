@@ -8,8 +8,9 @@
 - 🧠 Check out my linkedin! https://www.linkedin.com/in/jayden-alimonda/
 
 - ## Contact me:
+[![My Skills](https://skillicons.dev/icons?i=gmail,linkedin)](https://skillicons.dev)
 
 - ## Languages and tools
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,mongodb,linux)](https://skillicons.dev)
 
